@@ -1,10 +1,5 @@
 module.exports = {
 	output: 'standalone',
-	env: {
-	    React: react,
-	    Next: next,
-	    Tailwind: tailwind
-	},
 	images: {
 	    remotePatterns: [
 	        {
